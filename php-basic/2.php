@@ -105,4 +105,4 @@ foreach ($firstArr2 as $key => $value) {
     }
 }
 
-var_dump($secondElements); // Не можу зробити
+var_dump($secondElements); // Не можу зробити!
